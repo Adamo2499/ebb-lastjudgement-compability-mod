@@ -1,0 +1,21 @@
+# VS Code syntax support
+.vscode/
+.luarc.json
+/debug-key.lua
+
+
+# Files disabling mods
+disable.it
+disable.it.*
+
+# IDEA
+
+*.dat
+*.ds_store
+*.DS_Store
+.idea/
+/shelf/
+/workspace.xml
+
+# Isaac metadata
+metadata.xml
