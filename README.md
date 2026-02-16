@@ -1,7 +1,7 @@
 ## Enhanced Boss Bars icons for Fall From Grace
 ### Description
 
-This mod adds [Enhanced Boss Bars](https://steamcommunity.com/workshop/filedetails/?id=2635267643) icons for [Last Judgement]([https://steamcommunity.com/sharedfiles/filedetails/?id=2974704582](https://steamcommunity.com/sharedfiles/filedetails/?id=3343815332)
+This mod adds [Enhanced Boss Bars](https://steamcommunity.com/workshop/filedetails/?id=2635267643) icons for [Last Judgement](https://steamcommunity.com/sharedfiles/filedetails/?id=3343815332])
 
 ### Installation
 #### Steam Workshop
