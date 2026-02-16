@@ -23,7 +23,7 @@ if HPBars then
     --#region Corpse
         --#region Mama Plum
         ["908.743"] = {
-            sprite = "gfx/ui/bosshp_icons/corpse/mamaplum/mamaplum.png",
+            sprite = "gfx/ui/bosshp_icons/minibosses/mamaplum/mamaplum.png",
             offset = Vector(-10,0)
         },
         --#endregion
@@ -31,53 +31,54 @@ if HPBars then
     --#region Mortis
         --#region AIDS
         ["744.2"] = {
-            sprite = "gfx/ui/bosshp_icons/mortis/aids/aids.png",
+            sprite = "gfx/ui/bosshp_icons/minibosses/aids/aids.png",
             offset = Vector(-10,0)
-        }
+        },
         --#endregion
         --#region Cadavra
         ["743.1000"] = {
             sprite = "gfx/ui/bosshp_icons/mortis/cadavra/cadavra.png",
-            offset = Vector(-10,0)
-        }
+            offset = Vector(-8,0)
+        },
         --#endregion
         --#region Chubs
         ["743.1001"] = {
             sprite = "gfx/ui/bosshp_icons/mortis/cadavra/chubs.png",
-            offset = Vector(-10,0)
-        }
+            offset = Vector(-8,0)
+        },
         --#endregion
         --#region Nibs
         ["743.1002"] = {
             sprite = "gfx/ui/bosshp_icons/mortis/cadavra/nibs.png",
-            offset = Vector(-10,0)
-        }
+            offset = Vector(-4,0)
+        },
         --#endregion
         --#region Pinky
         ["743.1010"] = {
             sprite = "gfx/ui/bosshp_icons/mortis/pinky/pinky.png",
             offset = Vector(-10,0)
-        }
+        },
         --#endregion
         --#region Haemotoxia
         ["743.1020"] = {
             sprite = "gfx/ui/bosshp_icons/mortis/haemotoxia/haemotoxia.png",
-            offset = Vector(-10,0)
+            offset = Vector(-7,0)
         },
         --#endregion
         --#region Mother (phase 1)
-        	["912.0"] = {
-    		sprite = "gfx/ui/bosshp_icons/mortis/mother/mother.png",
+        ["912.0"] = {
+    		sprite = "gfx/ui/bosshp_icons/final/mother/mother.png",
     		barStyle = "Mother",
-    		offset = Vector(-9, 0)
+    		offset = Vector(-10, 0)
     	},
     	--#endregion
     	--#region Mother (phase 2)
         ["912.10"] = {
-            sprite = "gfx/ui/bosshp_icons/mortis/mother/mother_phase2.png",
+            sprite = "gfx/ui/bosshp_icons/final/mother/mother_phase2.png",
             barStyle = "Mother",
             offset = Vector(-8, 0)
 	   }
 	   --#endregion
 	}
     --#endregion
+end
